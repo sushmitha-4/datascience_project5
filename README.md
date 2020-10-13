@@ -32,6 +32,6 @@ This project processes the data which contains products,its warehouses,catergori
 
 ### Observations:
 1. The demand for product_1245 has been increasing from 2012 with a high increase from 2014
-2.If we see weekly trend,the demand is great on Thursday and it goes negative on sundays 
+2. If we see weekly trend,the demand is great on Thursday and it goes negative on sundays 
 3. If we see yearly,the demand is high during mid of March and less during September
-4.If we see daily the demand is more during early hours 4:00 am and in the night 8:00 pm
+4. If we see daily the demand is more during early hours 4:00 am and in the night 8:00 pm
